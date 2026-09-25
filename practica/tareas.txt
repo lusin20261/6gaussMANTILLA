@@ -1,0 +1,5 @@
+1: Estudiar
+2: Lavar mi ropa
+3: Barrer la sala
+4: Lustrar al perro
+5: Sacar a pasear a los zapatos
